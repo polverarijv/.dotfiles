@@ -1,0 +1,6 @@
+[user]
+	signingkey = 0xFB54A182B3378047
+	email = development@polverari.dev
+	name = João Vitor Polverari
+[commit]
+	gpgSign = true

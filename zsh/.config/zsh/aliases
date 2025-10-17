@@ -1,0 +1,4 @@
+alias ls='eza -lah --icons=auto --no-permissions --git --no-filesize --no-user'
+alias unstow='stow -D'
+alias q=exit
+alias c=clear
